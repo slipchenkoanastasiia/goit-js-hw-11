@@ -13,7 +13,7 @@ export class PhotoApi {
     const config = {
       method: 'get',
       params: {
-        key: '40580814-1f1887412e50f82259cec363c',
+        key: '24773654-b10e5ac350c77ceee849b632a',
         q: this.q,
         image_type: this.type,
         orientation: this.orientation,

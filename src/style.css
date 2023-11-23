@@ -9,7 +9,7 @@
   right: 0;
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: #0a224a;
+  background-color: #9370DB;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,7 +28,7 @@
 
 .search-form button {
   padding: 10px 15px;
-  background-color: #4d5ae5;
+  background-color: #8A2BE2;
   font-size: 16px;
   color: white;
   border: none;
@@ -37,7 +37,7 @@
 }
 
 .search-form button:is(:hover, :focus) {
-  background-color: #26606a;
+  background-color: #9370DB;
 }
 .gallery-wrapper {
   padding-top: 65px;
